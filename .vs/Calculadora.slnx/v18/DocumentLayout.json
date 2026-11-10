@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\FIEECEC\\Downloads\\Calculadora\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20C31CF1-100E-4ECE-B385-A2603F897EC7}|Calculadora\\Calculadora.csproj|c:\\users\\fieecec\\downloads\\calculadora\\calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20C31CF1-100E-4ECE-B385-A2603F897EC7}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{20C31CF1-100E-4ECE-B385-A2603F897EC7}|Calculadora\\Calculadora.csproj|C:\\Users\\FIEECEC\\Downloads\\Calculadora\\calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{20C31CF1-100E-4ECE-B385-A2603F897EC7}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C31CF1-100E-4ECE-B385-A2603F897EC7}|Calculadora\\Calculadora.csproj|c:\\users\\fieecec\\downloads\\calculadora\\calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C31CF1-100E-4ECE-B385-A2603F897EC7}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\FIEECEC\\Downloads\\Calculadora\\Calculadora\\Form1.cs",
               "RelativeDocumentMoniker": "Calculadora\\Form1.cs",
@@ -34,13 +34,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\FIEECEC\\Downloads\\Calculadora\\Calculadora\\Form1.cs",
               "RelativeDocumentMoniker": "Calculadora\\Form1.cs",
               "ToolTip": "C:\\Users\\FIEECEC\\Downloads\\Calculadora\\Calculadora\\Form1.cs",
               "RelativeToolTip": "Calculadora\\Form1.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAowEAAAABYAAAAAAAAAA==",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAUwEAAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-06T15:16:53.037Z",
               "EditorCaption": ""
