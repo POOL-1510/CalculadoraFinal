@@ -197,9 +197,10 @@
             // 
             // txtResultado
             // 
+            this.txtResultado.Font = new System.Drawing.Font("Consolas", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtResultado.Location = new System.Drawing.Point(128, 126);
             this.txtResultado.Name = "txtResultado";
-            this.txtResultado.Size = new System.Drawing.Size(232, 20);
+            this.txtResultado.Size = new System.Drawing.Size(232, 26);
             this.txtResultado.TabIndex = 19;
             this.txtResultado.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
@@ -247,7 +248,9 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(499, 450);
+            this.BackColor = System.Drawing.Color.Chocolate;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
+            this.ClientSize = new System.Drawing.Size(499, 369);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btn2);
             this.Controls.Add(this.btnBorrar);
@@ -267,6 +270,7 @@
             this.Controls.Add(this.btn4);
             this.Controls.Add(this.btn3);
             this.Controls.Add(this.btn1);
+            this.ForeColor = System.Drawing.SystemColors.WindowText;
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
